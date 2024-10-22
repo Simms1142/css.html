@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <body>
+<h1>My name is Stephen Simms</h1>
+    <p>I am a CyberSecurtiy student. I enjoy running and being outside. in my spare time I coach football.</p>
+    </body>
+  <style>
+    <body>
+body {background-color B4BDC3;}
+h1 {color 85C2BD;}
+    p {color 5B687F:}
+    </body>
+<title>My personal Introduction</title>
+</head>
